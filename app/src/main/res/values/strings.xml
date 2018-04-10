@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_dashboard">Workout</string>
+    <string name="title_notifications">Reminders</string>
+    <string name="title_activity_workout">Workout</string>
+    <string name="title_activity_reminder">Reminder</string>
+</resources>
